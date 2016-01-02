@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleTextView</string>
+    <string name="sample_htmltext"><![CDATA[ <font color="purple">This is some html text!</font> ]]></string>
+</resources>
